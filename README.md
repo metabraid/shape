@@ -7,4 +7,4 @@ file location of various sourcecode artifacts.  Having this shared understanding
 makes it easier for various contributors and stakeholders to collaborate on
 the creation, editing, reviewing and other activities related to sourcecode.
 
-The primary inputs of Shape are Seed and Topology.  Seed contains the metadata about a system (e.g. Name, Version, Features, etc...).  Topology contains configuration about various system spaces (User Interface, Network, Database, Storage, Compute, Accessa Management, etc...)
+The primary inputs of Shape are Seed and Topology.  Seed contains the metadata about a system (e.g. Name, Version, Features, etc...).  Topology contains configuration about various system spaces (User Interface, Network, Database, Storage, Compute, Access Management, etc...)
