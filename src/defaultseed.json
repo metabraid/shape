@@ -1,0 +1,20 @@
+{
+    "systemID":"sample-system",
+    "systemName":"Sample System",
+    "version":"1.0.0",
+    "visibleFeatures":[
+        {
+            "featureID":"feature1",
+            "isMainFeature":true
+        },
+        {
+            "featureID":"feature2",
+            "isMainFeature":false
+        },
+        {
+            "featureID":"feature3",
+            "isMainFeature":false
+        }
+
+    ]
+}
